@@ -18,7 +18,7 @@
 
 ---
 
-Meu portfólio: https://tiobendev.vercel.com
+Meu portfólio: https://tiobendev.vercel.app/
 
 [![card](https://github-readme-stats.vercel.app/api?username=tiobendev&theme=default&show_icons=true)](https://github.com/tiobendev/github-readme-stats)
 
