@@ -9,6 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/tiobendev/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=tiobendev&theme=default&show_icons=true)](https://github.com/tiobendev/github-readme-stats)
 
-[![tiobendev](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&layout=compact)](https://github.com/tiobendev/github-readme-stats)
+[![tiobendev](https://github-readme-stats.vercel.app/api/top-langs/?username=tiobendev&layout=compact)](https://github.com/tiobendev/github-readme-stats)
