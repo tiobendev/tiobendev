@@ -12,21 +12,16 @@
 
 # Tecnologias que utilizo nos meus projetos:
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="TioBen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="TioBen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="TioBen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TioBen-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-	<img align="center" alt="TioBen-NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="TioBen-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="TioBen-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="TioBen-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="TioBen-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
-	<img align="center" alt="TioBen-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain-wordmark.svg" />
-	<img align="center" alt="TioBen-Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" />
-	<img align="center" alt="TioBen-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-	<img align="center" alt="TioBen-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
-</div>
+<br>
+  [![HTML](https://img.shields.io/badge/HTML5-standard-orange.svg?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/HTML/Introduction)
+  [![CSS](https://img.shields.io/badge/CSS3-standard-blue.svg?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![TypeScript](https://img.shields.io/badge/Typescript-blue.svg?style=flat-square)](https://www.typescriptlang.org/)
+  [![Next.js](https://img.shields.io/badge/Next.js-black.svg?style=flat-square)](https://nextjs.org/)
+  [![React](https://img.shields.io/badge/React-blue.svg?style=flat-square)](https://reactjs.org/)
+  [![Python](https://img.shields.io/badge/python-3.x-blue.svg?style=flat-square)](https://www.python.org/)
+  [![Node.js](https://img.shields.io/badge/Node.js-green.svg?style=flat-square)](https://nodejs.org/)
+<br>
 
 <br>
 
