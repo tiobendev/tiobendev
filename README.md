@@ -16,7 +16,7 @@
 
 [![HTML](https://img.shields.io/badge/HTML5-standard-orange.svg?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/HTML/Introduction)
 [![CSS](https://img.shields.io/badge/CSS3-standard-blue.svg?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
-[![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/Typescript-blue.svg?style=flat-square)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-black.svg?style=flat-square)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-blue.svg?style=flat-square)](https://reactjs.org/)
