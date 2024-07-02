@@ -10,11 +10,6 @@
 
 ---
 
-# Passa lá no meu portfólio: 
-👉 https://tiobendev.vercel.app/
-
-<br>
-
 # Tecnologias que utilizo nos meus projetos ou estou estudando
 
 <div style="display: inline_block"><br>
@@ -33,6 +28,10 @@
 	<img align="center" alt="TioBen-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
 </div>
 
+<br>
+
+# Passa lá no meu portfólio: 
+👉 https://tiobendev.vercel.app/
 <br>
 
 ---
