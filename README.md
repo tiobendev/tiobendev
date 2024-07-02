@@ -37,10 +37,9 @@
 **Portfólio 👉:** https://tiobendev.vercel.app/
 <br>
 
-[![card](https://github-readme-stats.vercel.app/api?username=tiobendev&theme=default&show_icons=true)](https://github.com/tiobendev/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=tiobendev&theme=default&show_icons=true)]
 
-[![tiobendev](https://github-readme-stats.vercel.app/api/top-langs/?username=tiobendev&layout=compact)](https://github.com/tiobendev/github-readme-stats)
-
+[![tiobendev](https://github-readme-stats.vercel.app/api/top-langs/?username=tiobendev&layout=compact)]
 <br>
 
 ## Me encontre no Valorant:
