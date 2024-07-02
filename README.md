@@ -33,24 +33,17 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<br>
-
 # Passa lá no meu portfólio: 
 👉 https://tiobendev.vercel.app/
 <br>
 
----
-
-
 [![card](https://github-readme-stats.vercel.app/api?username=tiobendev&theme=default&show_icons=true)](https://github.com/tiobendev/github-readme-stats)
-
 [![tiobendev](https://github-readme-stats.vercel.app/api/top-langs/?username=tiobendev&layout=compact)](https://github.com/tiobendev/github-readme-stats)
-
 
 <br>
 
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
 ## Me encontre no Valorant:
+![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
 
 **Conta 01**: Especial Force #1996
 
