@@ -13,14 +13,16 @@
 # Tecnologias que utilizo nos meus projetos:
 
 <br>
-  [![HTML](https://img.shields.io/badge/HTML5-standard-orange.svg?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/HTML/Introduction)
-  [![CSS](https://img.shields.io/badge/CSS3-standard-blue.svg?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [![TypeScript](https://img.shields.io/badge/Typescript-blue.svg?style=flat-square)](https://www.typescriptlang.org/)
-  [![Next.js](https://img.shields.io/badge/Next.js-black.svg?style=flat-square)](https://nextjs.org/)
-  [![React](https://img.shields.io/badge/React-blue.svg?style=flat-square)](https://reactjs.org/)
-  [![Python](https://img.shields.io/badge/python-3.x-blue.svg?style=flat-square)](https://www.python.org/)
-  [![Node.js](https://img.shields.io/badge/Node.js-green.svg?style=flat-square)](https://nodejs.org/)
+
+[![HTML](https://img.shields.io/badge/HTML5-standard-orange.svg?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/HTML/Introduction)
+[![CSS](https://img.shields.io/badge/CSS3-standard-blue.svg?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/Typescript-blue.svg?style=flat-square)](https://www.typescriptlang.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-black.svg?style=flat-square)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-blue.svg?style=flat-square)](https://reactjs.org/)
+[![Python](https://img.shields.io/badge/python-3.x-blue.svg?style=flat-square)](https://www.python.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-green.svg?style=flat-square)](https://nodejs.org/)
+
 <br>
 
 <br>
