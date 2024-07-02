@@ -1,16 +1,14 @@
 ## Olá, sou o Tio Ben        #Dev👋
 
+- 😄 De 96 Esse é o Tio Ben!
 - 🔭 Em busca de oportunidades como Desenvolvedor Web Jr ou Industrial Designer...
 - 🌱 Estou sempre aprendendo sobre novas tecnologias em especial: NextJs, TypeScript TailwindCSS, React, Python, NodeJS, MongoDB...
 - 🤝 Estou disposto a colaborar com projetos onde podemos dividir nossas experiências e conquistas!
 - 🤔 Preciso de ajuda para entender como funciona API's e Banco de Dados [MongoDB]
 - 💬 Você pode conversar comigo nas minhas redes sociais no perfil!
-- 😄 Esse é o Tio Ben
 - ⚡ Quero ser um ótimo desenvolvedor, curto mountain bike, acampar, pescar, ler livros e também sou jogador de Valorant me adiciona lá! 
 
 ---
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 # Tecnologias que utilizo nos meus projetos ou estou estudando
 
