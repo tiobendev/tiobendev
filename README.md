@@ -1,4 +1,4 @@
-## Tio Ben #Dev👋
+## Olá, sou o Tio Ben        #Dev👋
 
 - 🔭 Em busca de oportunidades como Desenvolvedor Web Jr ou Industrial Designer...
 - 🌱 Estou sempre aprendendo sobre novas tecnologias em especial: NextJs, TypeScript TailwindCSS, React, Python, NodeJS, MongoDB...
@@ -9,7 +9,8 @@
 - ⚡ Quero ser um ótimo desenvolvedor, curto mountain bike, acampar, pescar, ler livros e também sou jogador de Valorant me adiciona lá! 
 
 ---
-Me encontre no Valorant:
+
+#### Me encontre no Valorant:
 
 **Conta 01**: Especial Force #1996
 
