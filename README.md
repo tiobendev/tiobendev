@@ -49,8 +49,8 @@
 
 <br>
 
-## Me encontre no Valorant:
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) <br>
+## Me encontre no Valorant: ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+
 **Conta 01**: Especial Force #1996
 
 **Conta 02:** Tio Ben #DEV
