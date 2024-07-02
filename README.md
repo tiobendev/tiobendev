@@ -10,6 +10,11 @@
 
 ---
 
+## Passa lá no meu portfólio: 
+https://tiobendev.vercel.app/
+
+---
+
 ### Me encontre no Valorant:
 
 **Conta 01**: Especial Force #1996
@@ -17,12 +22,7 @@
 **Conta 02:** Tio Ben #DEV
 
 ---
-
-## Passa lá no meu portfólio: 
-### https://tiobendev.vercel.app/
-
----
-
+<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="TioBen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -40,7 +40,7 @@
 	<img align="center" alt="TioBen-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
 </div>
 
-
+<br>
 ---
 
 
