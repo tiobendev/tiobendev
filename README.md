@@ -11,18 +11,11 @@
 ---
 
 ## Passa lá no meu portfólio: 
-https://tiobendev.vercel.app/
+👉 https://tiobendev.vercel.app/
 
----
-
-### Me encontre no Valorant:
-
-**Conta 01**: Especial Force #1996
-
-**Conta 02:** Tio Ben #DEV
-
----
 <br>
+
+## Tecnologias que utilizo nos meus projetos ou estou estudando
 
 <div style="display: inline_block"><br>
   <img align="center" alt="TioBen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -41,9 +34,21 @@ https://tiobendev.vercel.app/
 </div>
 
 <br>
+
 ---
 
 
 [![card](https://github-readme-stats.vercel.app/api?username=tiobendev&theme=default&show_icons=true)](https://github.com/tiobendev/github-readme-stats)
 
 [![tiobendev](https://github-readme-stats.vercel.app/api/top-langs/?username=tiobendev&layout=compact)](https://github.com/tiobendev/github-readme-stats)
+
+
+<br>
+
+## Me encontre no Valorant:
+
+**Conta 01**: Especial Force #1996
+
+**Conta 02:** Tio Ben #DEV
+
+---
