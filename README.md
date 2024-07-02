@@ -1,12 +1,12 @@
 ## Olá, sou o Tio Ben        #Dev👋
 
 - 😄 De 96 Esse é o Tio Ben!
-- 🔭 Em busca de oportunidades como Desenvolvedor Web Jr ou Industrial Designer...
-- 🌱 Estou sempre aprendendo sobre novas tecnologias em especial: NextJs, TypeScript TailwindCSS, React, Python, NodeJS, MongoDB...
+- 🔭 Em busca de oportunidades como Desenvolvedor Web Jr ou Industrial Designer.
+- 🌱 Estou sempre aprendendo sobre novas tecnologias em especial: NextJs, TypeScript TailwindCSS, React, Python, NodeJS e MongoDB.
 - 🤝 Estou disposto a colaborar com projetos onde podemos dividir nossas experiências e conquistas!
 - 🤔 Preciso de ajuda para entender como funciona API's e Banco de Dados [MongoDB]
-- 💬 Você pode conversar comigo nas minhas redes sociais no perfil!
-- ⚡ Quero ser um ótimo desenvolvedor, curto mountain bike, acampar, pescar, ler livros e também sou jogador de Valorant me adiciona lá! 
+- 💬 Você pode conversar comigo nas minhas redes sociais no perfil logo ali 👈👀
+- ⚡ Curto desenvolvedor projetos, mountain bike, acampar, pescar, ler livros e também sou jogador de Valorant.
 
 ---
 
