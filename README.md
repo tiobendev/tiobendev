@@ -49,7 +49,8 @@
 
 <br>
 
-## Me encontre no Valorant: ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+## Me encontre no Valorant:
 
 **Conta 01**: Especial Force #1996
 
