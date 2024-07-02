@@ -34,7 +34,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # Passa lá no meu portfólio: 
-👉 https://tiobendev.vercel.app/
+**Portfólio 👉:** https://tiobendev.vercel.app/
 <br>
 
 [![card](https://github-readme-stats.vercel.app/api?username=tiobendev&theme=default&show_icons=true)](https://github.com/tiobendev/github-readme-stats)
