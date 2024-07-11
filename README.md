@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#6366f1&height=80&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=200&size=22&duration=3500&pause=3000&color=16FFB2&random=false&width=500&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Breno!;Mas+pode+me+chamar+de+Tio+Ben!;Vamos+desenvolver+algo+juntos%3F)](https://git.io/typing-svg)
+[[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=200&size=22&duration=3500&pause=3000&color=16FFB2&repeat=false&random=false&width=500&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Breno!;Mas+pode+me+chamar+de+Tio+Ben!;Vamos+desenvolver+algo+juntos%3F)](https://git.io/typing-svg)](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Tio%20Ben%20Dev&descAlign=42&textBg=false&reversal=false)
 
 - 😄 De 96 Esse é o Tio Ben!
 - 🔭 Em busca de oportunidades como Desenvolvedor Web Jr ou Industrial Designer.
@@ -55,4 +55,3 @@
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#6366f&height=120&section=footer"/>
