@@ -3,16 +3,16 @@
 </div>
 
 
-Olá! Eu sou o Tio Ben, nascido em 1996.
+Olá! Eu sou o Tio Ben, nascido em 1996.  
 Curto mountain bike, acampar, pescar, ler livros e um Valorant de vez em quando.
 
-Acredito na colaboração em projetos que visam construir aplicações bonitas, fluidas e úteis para o dia a dia das pessoas. 
+Acredito na colaboração em projetos que visam construir aplicações bonitas, fluidas e úteis para o dia a dia das pessoas.  
 Atualmente, estou focado em entender APIs e Bancos de Dados, especialmente MongoDB e PostgreSQL.
 
-Busco oportunidades como Desenvolvedor Web Júnior. 
+Busco oportunidades como Desenvolvedor Web Júnior.  
 Uso algumas tecnologias nos meus projetos como Next.js, TypeScript, Tailwind CSS, React, Python, Node.js, Axios...
 
-Você pode me encontrar nas redes sociais, boa conversar! 
+Você pode me encontrar nas redes sociais, boa conversar!  
 [bento.me/tiobendev](https://bento.me/tiobendev)
 
 
