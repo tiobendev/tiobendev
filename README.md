@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#3b82f6&height=80&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff4&height=120&section=header"/>
 
 ## Olá, sou o Tio Ben        #Dev👋
 
@@ -54,3 +54,5 @@
 **Conta 02:** Tio Ben #DEV
 
 ---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff4&height=120&section=footer"/>
