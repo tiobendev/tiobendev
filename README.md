@@ -40,9 +40,10 @@
 <br>
 
 <div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tiobendev&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiobendev&exclude_repo=github-readme-stats,dopeeycode.github.io&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tiobendev&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiobendev&exclude_repo=github-readme-stats,dopeeycode.github.io&layout=compact&hide_border=true&title_color=ffffff&text_color=ff91a4&bg_color=0d1117" />
 </div>
+
 
 ## Me encontre no Valorant:
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
