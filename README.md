@@ -2,13 +2,19 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Tio%20Ben%20DEV&descAlign=50&textBg=false&reversal=false&descAlignY=30" />
 </div>
 
-- 😄 De 96 Esse é o Tio Ben!
-- 🔭 Em busca de oportunidades como Desenvolvedor Web Jr ou Industrial Designer.
-- 🌱 Estou sempre aprendendo sobre novas tecnologias em especial: <br>NextJs, TypeScript TailwindCSS, React, Python, NodeJS e MongoDB.
-- 🤝 Estou disposto a colaborar com projetos onde podemos dividir nossas experiências e conquistas!
-- 🤔 Preciso de ajuda para entender como funciona API's e Banco de Dados [MongoDB]
-- 💬 Você pode conversar comigo nas minhas redes sociais no perfil logo ali 👈👀
-- ⚡ Curto desenvolvedor projetos, mountain bike, acampar, pescar, ler livros e também sou jogador de Valorant.
+
+Olá! Eu sou o Tio Ben, nascido em 1996. 
+Curto mountain bike, acampar, pescar, ler livros e um Valorant de vez em quando.
+
+Acredito na colaboração em projetos que visam construir aplicações bonitas, fluidas e úteis para o dia a dia das pessoas. 
+Atualmente, estou focado em entender APIs e Bancos de Dados, especialmente MongoDB e PostgreSQL.
+
+Busco oportunidades como Desenvolvedor Web Júnior. 
+Uso algumas tecnologias nos meus projetos como Next.js, TypeScript, Tailwind CSS, React, Python, Node.js, Axios...
+
+Você pode me encontrar nas redes sociais, boa conversar! 
+[bento.me/tiobendev](https://bento.me/tiobendev)
+
 
 ---
 
