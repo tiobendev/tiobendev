@@ -3,7 +3,7 @@
 </div>
 
 
-Olá! Eu sou o Tio Ben, nascido em 1996. 
+Olá! Eu sou o Tio Ben, nascido em 1996.
 Curto mountain bike, acampar, pescar, ler livros e um Valorant de vez em quando.
 
 Acredito na colaboração em projetos que visam construir aplicações bonitas, fluidas e úteis para o dia a dia das pessoas. 
