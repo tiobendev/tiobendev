@@ -1,4 +1,6 @@
-<img url="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Tio%20Ben%20DEV&descAlign=50&textBg=false&reversal=false&descAlignY=30" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Tio%20Ben%20DEV&descAlign=50&textBg=false&reversal=false&descAlignY=30" />
+</div>
 
 - 😄 De 96 Esse é o Tio Ben!
 - 🔭 Em busca de oportunidades como Desenvolvedor Web Jr ou Industrial Designer.
