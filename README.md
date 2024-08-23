@@ -15,6 +15,9 @@ Uso algumas tecnologias nos meus projetos como Next.js, TypeScript, Tailwind CSS
 Você pode me encontrar nas redes sociais, boa conversar!  
 [bento.me/tiobendev](https://bento.me/tiobendev)
 
+---
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tiobendev&bg_color=0d1117&color=9fb2e0&line=9fb2e0&point=7e98d5&area=true&hide_border=true)
 
 ---
 
