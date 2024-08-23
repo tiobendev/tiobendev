@@ -17,7 +17,7 @@ Você pode me encontrar nas redes sociais, boa conversar!
 
 ---
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tiobendev&bg_color=22272E&color=21b9ff&line=21b9ff&point=e339a5&area=true&hide_border=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tiobendev&bg_color=1C2127&color=21b9ff&line=21b9ff&point=e339a5&area=true&hide_border=true)
 
 ---
 
