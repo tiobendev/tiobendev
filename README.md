@@ -4,7 +4,7 @@
 
 
 Olá! Eu sou o Tio Ben, nascido em 1996.  
-Curto mountain bike, acampar, pescar, ler livros e um Valorant de vez em quando.
+Curto mountain bike, acampar, pescar, ler livros e um Valorant as vezes.
 
 Acredito na colaboração em projetos que visam construir aplicações bonitas, fluidas e úteis para o dia a dia das pessoas.  
 Atualmente, estou focado em entender APIs e Bancos de Dados, especialmente MongoDB e PostgreSQL.
