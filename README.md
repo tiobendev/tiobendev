@@ -2,9 +2,8 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Tio%20Ben%20DEV&descAlign=50&textBg=false&reversal=false&descAlignY=30" />
 </div>
 
-
 Olá! Eu sou o Tio Ben, nascido em 1996.  
-Curto mountain bike, acampar, pescar, ler livros e um Valorant as vezes.
+Curto mountain bike, acampar, pescar, ler livros e um Valorant às vezes.
 
 Acredito na colaboração em projetos que visam construir aplicações bonitas, fluidas e úteis para o dia a dia das pessoas.  
 Atualmente, estou focado em entender APIs e Bancos de Dados, especialmente MongoDB e PostgreSQL.
@@ -44,6 +43,9 @@ Ou estou aprendendo no momento.
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-0095D5?style=for-the-badge&logo=axios&logoColor=white)
 
+# Ouça minha playlist no Spotify
+
+[![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4az8sFDkxIXNET80NrBPd3?si=WYptDhI-QVSR4Pkxadze-g)
 
 # Passa lá no meu portfólio:
 **Portfólio 👉:** [tiobendev.vercel.app](https://tiobendev.vercel.app/)
